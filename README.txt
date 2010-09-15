@@ -1,1 +1,1 @@
-README
+bookmarklet for GREE Social Feedback.

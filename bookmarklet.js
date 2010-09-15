@@ -1,0 +1,1 @@
+javascript:(function(){d=document;u=encodeURIComponent(d.location.href);t=d.title;if(t==''){p='http://gree.jp/share/write?url='+u;}else{p='http://gree.jp/share/write?url='+u+'&title='+t;}window.open(p)})();
